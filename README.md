@@ -1,8 +1,6 @@
-Hi There ! I am Mourya Gudipudi
-<hr>
+## Hi There ! I am [Mourya Gudipudi](https://mouryag.github.io)
 
-**About**
-<hr>
+## About
 
 * 💻 Machine Learning Engineer associate at TCS.
 
