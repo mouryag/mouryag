@@ -6,7 +6,7 @@
 
 * 💡 Mathematics explorer.  
 
-* ✍ I wanna become a Data Scientist.
+* ✍ I aspire to become a Data Scientist.
 
 * 🔭 Research Interests: Machine Learning,Computer Vision, NLP,Data analytics,Data vizualisation.
 
