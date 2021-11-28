@@ -2,12 +2,19 @@
 
 ## About
 
-* 💻 Machine Learning Engineer associate at TCS.
 
-* 💡 Mathematics explorer.  
+* 💻 Machine Learning Engineer at TCS.
 
-* ✍ I aspire to become a Data Scientist.
+* FLask and Django developer
+
+* 💡 Mathematics explorer, Programmer.  
+
+* ✍ I aspire to built intelligent and smart systems that can move mankind forward and make world a better place.
 
 * 🔭 Research Interests: Machine Learning,Computer Vision, NLP,Data analytics,Data vizualisation.
 
+* A Computer Science and Engineering student
+
 * 🌱 Favourite Quote: The question isn't who is going to let me; It is who is going to stop me.
+
+
