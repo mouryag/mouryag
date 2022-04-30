@@ -3,7 +3,7 @@
 ## About
 
 
-* 💻 Machine Learning Engineer at TCS.
+* 💻 Data scientist at TCS.
 
 * FLask and Django developer
 
@@ -11,7 +11,7 @@
 
 * ✍ I aspire to built intelligent and smart systems that can move mankind forward and make world a better place.
 
-* 🔭 Research Interests: Machine Learning,Computer Vision, NLP,Data analytics,Data vizualisation.
+* 🔭 Research Interests: Machine Learning,Computer Vision, NLP,Data analytics,Data vizualisation, Big data, Cloud technologies. 
 
 * A Computer Science and Engineering student
 
