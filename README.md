@@ -3,7 +3,7 @@
 ## About
 
 
-* 💻 Data scientist at TCS.
+* 💻 ML engineer at TCS.
 
 * FLask and Django developer
 
