@@ -3,7 +3,7 @@
 ## About
 
 
-* 💻 Data Scientist at xAI.
+* 💻 ML Engineer at xAI.
 
 * FLask and Django developer
 
